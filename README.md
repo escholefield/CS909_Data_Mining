@@ -6,4 +6,5 @@ Required libraries are tm, openNLP, and NLP.
 
 00_example.R is a vignette on how to use the functions in
 01_preprocess.R to mine text, based on using the
-reatersCSV.csv file.
+reatersCSV.csv file which is available from
+Professor Maria Liakata, Department of Computer Science, University of Warwick.
